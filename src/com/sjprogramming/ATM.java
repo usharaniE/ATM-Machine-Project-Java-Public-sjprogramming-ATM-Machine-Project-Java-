@@ -1,4 +1,4 @@
-package com.sjprogramming;
+package com.programming;
 
 public class ATM {
     private double balance;
