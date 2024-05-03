@@ -1,4 +1,4 @@
-package com.sjprogramming;
+package com.programming;
 
 public interface AtmOperationInterf {
     public void viewBalance();
